@@ -1,2 +1,2 @@
-let usurios = [{nombre: 'Eleazar', correo :'emonjaraz@digitalhouse.com'},
+let usuario = [{nombre: 'Eleazar', correo :'emonjaraz@digitalhouse.com'},
 {nombre: 'Gerardo', correo :'garjona@digitalhouse.com'}]
